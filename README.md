@@ -10,3 +10,5 @@ En estas sección se cubren:
 
 ##Librería ControlP5
 <img src="P_S5_data2/text2.png" width="100">
+
+Pueden encontrar más detalles de la librería en este [link](http://www.sojamo.de/libraries/controlP5/), sin embargo, explorara los ejemplos que vienen con la librería para ver su uso.
