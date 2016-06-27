@@ -12,3 +12,8 @@ En estas sección se cubren:
 <img src="P_S5_data2/text2.png" width="100">
 
 Pueden encontrar más detalles de la librería en este [link](http://www.sojamo.de/libraries/controlP5/), sin embargo, explorara los ejemplos que vienen con la librería para ver su uso.
+
+##Leyendo datos con buffer
+<img src="P_S5_GeoData/geo.png" width="100">
+
+A veces son muchos datos y es mejor irlos leyendo línea por línea. Para eso se puede utilizar el objeto [BufferedReader](https://processing.org/reference/BufferedReader.html)
